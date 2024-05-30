@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "613036229728",
+    "project_id": "kudosintern",
+    "storage_bucket": "kudosintern.appspot.com",
+    "firebase_url": "https://kudosintern-default-rtdb.firebaseio.com/"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613036229728:android:89488f16746011e6c5ef05",
+        "android_client_info": {
+          "package_name": "com.example.teacher"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaYBXz0NygIbqDLoA9kOC0FhHFe1dUBlI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
